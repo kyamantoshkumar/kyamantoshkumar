@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyamantoshkumar
 - 👀 I’m interested in JavaScript js, mean stack, 
       Python programming 
-- 🌱 I’m currently learning PHP & MySQL.
+- 🌱 I’m currently learning ReactJs and NodeJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me @
       kyamantoshkumar@outlook.com
