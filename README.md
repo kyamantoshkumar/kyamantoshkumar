@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyamantoshkumar
-- 👀 I’m interested in JavaScript js, mean stack, 
-      Python programming 
+- 👀 I’m interested in Reactjs ,MERN stack, 
+      and Web Development.  
 - 🌱 I’m currently learning ReactJs and NodeJs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me @
